@@ -1,0 +1,30 @@
+img{
+  height: 200px;
+  width: 200px;
+  border: 2px dashed hotpink;
+}
+
+p{
+  font-size: 50px;
+  font-weight: bold;
+  color: hotpink;
+}
+
+body{
+  text-align: center;
+  font-family: "Courier New";
+}
+
+ol{
+  font-size: 24px;
+  font-weight: bold;
+  color: mediumpurple;
+}
+
+a{
+  color: hotpink;
+}
+
+html{
+  background-color: lavender;
+}
