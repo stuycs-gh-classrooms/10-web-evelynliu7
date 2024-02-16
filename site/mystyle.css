@@ -1,0 +1,16 @@
+.menu ul{
+  list-style-type : none;
+}
+
+.page {
+  display : inline;
+}
+
+html {
+  background-color : aliceblue;
+  text-align : center;
+}
+
+h1{
+  color : hotpink;
+}
