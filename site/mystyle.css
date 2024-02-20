@@ -1,9 +1,41 @@
 .menu ul{
-  list-style-type : none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #EACACB;
+  overflow: hidden;
+}
+
+.title_name{
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  color: #818A6D;
+  text-align: center;
+  padding: 20px;
+  font-family: "Lucida Handwriting";
 }
 
 .page {
-  display : inline;
+  float: right;
+}
+
+.page a{
+  color: #818A6D;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  display: block;
+  padding: 20px;
+  font-family: "Lucida Console";
+}
+
+.page a:hover{
+  background-color: #ECB3BC;
+}
+
+.active{
+  background-color: #E9E1DC;
 }
 
 html {
@@ -12,5 +44,4 @@ html {
 }
 
 h1{
-  color : hotpink;
 }
