@@ -62,7 +62,8 @@ html {
 }
 
 .description{
-  margin: 110px;
+  margin-top: 100px;
+  margin-bottom: 160px;
   color: #AD5F77;
   font-size: 24px;
   font-family: "Lucida Console";
