@@ -52,13 +52,16 @@ html {
 
 .homep{
   border-radius: 25px;
-  font-size: 20px;
+  font-size: 24px;
   margin: 25px;
-  background-color: #D5D8CD;
   font-family: "Lucida Console";
-  color: #AD666C;
+  color: #AD5F77;
   text-align: center;
   padding: 10px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 75%;
 }
 
 .description{
