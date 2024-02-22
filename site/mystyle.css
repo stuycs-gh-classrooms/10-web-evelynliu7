@@ -2,6 +2,7 @@ body{
   margin: 10px;
   background-color: #EBC3C4;
   border-radius: 25px;
+  padding: 10px;
 }
 
 .menu ul{
@@ -49,5 +50,35 @@ html {
   background-color: #EFD9D9;
 }
 
+.homep{
+  border-radius: 25px;
+  font-size: 20px;
+  margin: 25px;
+  background-color: #D5D8CD;
+  font-family: "Lucida Console";
+  color: #AD666C;
+  text-align: center;
+  padding: 10px;
+}
+
+.description{
+  margin: 110px;
+  color: #AD5F77;
+  font-size: 24px;
+  font-family: "Lucida Console";
+}
+
+img{
+  float: left;
+  border-radius: 25px;
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+}
+
 h1{
+  padding-top: 50px;
+  font-size: 50px;
+  font-variant: small-caps;
+  color: #AD5F77;
 }
