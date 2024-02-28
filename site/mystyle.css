@@ -1,8 +1,8 @@
 body{
-  margin: 1%;
+  margin: 10px;
   background-color: #EBC3C4;
   border-radius: 25px;
-  padding: 1%;
+  padding: 10px;
 }
 
 .menu ul{
@@ -33,7 +33,7 @@ body{
   text-align: center;
   font-size: 20px;
   display: block;
-  padding: 1%;
+  padding: 26px;
   font-family: "Lucida Console";
   border-radius: 25px;
 }
@@ -65,8 +65,8 @@ html {
 }
 
 .description{
-  margin-top: 100px;
-  margin-bottom: 160px;
+  margin-top: 75px;
+  margin-bottom: 200px;
   color: #AD5F77;
   font-size: 24px;
   font-family: "Lucida Console";
