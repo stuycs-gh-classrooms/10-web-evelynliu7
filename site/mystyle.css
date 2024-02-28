@@ -1,8 +1,8 @@
 body{
-  margin: 10px;
+  margin: 1%;
   background-color: #EBC3C4;
   border-radius: 25px;
-  padding: 10px;
+  padding: 1%;
 }
 
 .menu ul{
@@ -19,7 +19,7 @@ body{
   font-weight: bold;
   color: #818A6D;
   text-align: center;
-  padding: 20px;
+  padding: 1%;
   font-family: "Lucida Handwriting";
 }
 
@@ -33,7 +33,7 @@ body{
   text-align: center;
   font-size: 20px;
   display: block;
-  padding: 26px;
+  padding: 1%;
   font-family: "Lucida Console";
   border-radius: 25px;
 }
@@ -53,7 +53,7 @@ html {
 .homep{
   border-radius: 25px;
   font-size: 24px;
-  margin: 25px; 
+  margin: 1%;
   font-family: "Lucida Console";
   color: #AD5F77;
   text-align: center;
