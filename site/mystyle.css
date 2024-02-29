@@ -53,15 +53,14 @@ html {
 .homep{
   border-radius: 25px;
   font-size: 24px;
-  margin: 1%;
   font-family: "Lucida Console";
   color: #AD5F77;
   text-align: center;
   padding: 10px;
-  margin: auto;
+  margin:1%;
   margin-top: 50px;
   margin-bottom: 50px;
-  width: 75%;
+
 }
 
 .description{
@@ -72,12 +71,25 @@ html {
   font-family: "Lucida Console";
 }
 
-img{
+.mv{
   float: left;
   border-radius: 25px;
   width: 400px;
   height: 400px;
   margin: 20px;
+}
+
+.coverPhoto{
+  height: 700px;
+  margin: 1%;
+}
+
+.welcome{
+  text-align: center;
+}
+
+.topArtists{
+  text-align: center;
 }
 
 h1{
