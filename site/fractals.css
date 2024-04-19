@@ -1,0 +1,36 @@
+body{
+    background-color: #F9D0DE;
+}
+
+p{
+    text-align: center;
+    color: #eb7b97;
+    font-size: 20px;
+    font-family: "Lucida Console";
+}
+
+img{
+    border-radius: 25px;
+    border-style: dashed;
+}
+
+pre{
+    color:#eb7b97;
+    background-color: #fae9ef;
+    border-radius: 15px;
+    padding: 0.5%;
+}
+
+.bigtitle{
+    text-align: center;
+    color:#946656;
+    font-family: "Lucida Handwriting";
+    font-weight: 1500;
+    font-size: 40px;
+}
+
+.heading{
+    margin: 15px;
+    color:#af8264;
+    font-family: "Lucida Handwriting";
+}
