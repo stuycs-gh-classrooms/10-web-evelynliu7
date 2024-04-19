@@ -21,6 +21,10 @@ pre{
     padding: 0.5%;
 }
 
+span{
+    background-color: #fae9ef;
+}
+
 .bigtitle{
     text-align: center;
     color:#946656;
@@ -33,4 +37,13 @@ pre{
     margin: 15px;
     color:#af8264;
     font-family: "Lucida Handwriting";
+}
+
+.new{
+    float: left;
+    margin: 3%;
+}
+
+.original{
+    margin: 2%;
 }
